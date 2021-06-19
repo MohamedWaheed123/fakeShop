@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fakeShop/static/css/main.2b521611.chunk.css",
+    "main.js": "/fakeShop/static/js/main.59e2a1db.chunk.js",
+    "main.js.map": "/fakeShop/static/js/main.59e2a1db.chunk.js.map",
+    "runtime-main.js": "/fakeShop/static/js/runtime-main.2d24b49a.js",
+    "runtime-main.js.map": "/fakeShop/static/js/runtime-main.2d24b49a.js.map",
+    "static/css/2.5961be02.chunk.css": "/fakeShop/static/css/2.5961be02.chunk.css",
+    "static/js/2.2cf18957.chunk.js": "/fakeShop/static/js/2.2cf18957.chunk.js",
+    "static/js/2.2cf18957.chunk.js.map": "/fakeShop/static/js/2.2cf18957.chunk.js.map",
+    "index.html": "/fakeShop/index.html",
+    "precache-manifest.e7350a937ac696d4ad779d03f7da5552.js": "/fakeShop/precache-manifest.e7350a937ac696d4ad779d03f7da5552.js",
+    "service-worker.js": "/fakeShop/service-worker.js",
+    "static/css/2.5961be02.chunk.css.map": "/fakeShop/static/css/2.5961be02.chunk.css.map",
+    "static/css/main.2b521611.chunk.css.map": "/fakeShop/static/css/main.2b521611.chunk.css.map",
+    "static/js/2.2cf18957.chunk.js.LICENSE.txt": "/fakeShop/static/js/2.2cf18957.chunk.js.LICENSE.txt",
+    "static/media/upperdiv.css": "/fakeShop/static/media/SEGA.12a3db8b.woff",
+    "static/media/semantic.min.css": "/fakeShop/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d24b49a.js",
+    "static/css/2.5961be02.chunk.css",
+    "static/js/2.2cf18957.chunk.js",
+    "static/css/main.2b521611.chunk.css",
+    "static/js/main.59e2a1db.chunk.js"
+  ]
+}
